@@ -7,12 +7,6 @@
   
   <img align="left" alt="Most Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiome&theme=dark" />
   <br><br><br><br><br><br><br><br><br><br><br><br>
- 
-- 📫 How to reach me: ...
-  
-  <a href="mailto:diegodiome.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/diego-diomedi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
 <!--
 **diegodiome/diegodiome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
