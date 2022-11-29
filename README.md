@@ -5,8 +5,6 @@
 
   [![My Skills](https://skillicons.dev/icons?i=python,kotlin,flutter,react)](https://skillicons.dev)
   
-  <img align="left" alt="Most Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodiome&theme=dark" />
-  <br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 **diegodiome/diegodiome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
